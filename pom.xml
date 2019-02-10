@@ -65,7 +65,7 @@
           </container>
           <to>
             <credHelper>osxkeychain</credHelper>
-
+            <!-- Replace the repo id -->
             <image>kameshsampath/vertx-helloworld</image>
           </to>
         </configuration>
